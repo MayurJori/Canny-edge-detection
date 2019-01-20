@@ -1,6 +1,5 @@
 #Mayur Jori
 # mbj282@nyu.edu
-# N11534214
 # Computer Vision : Project 1 – Canny Edge Detection
 
 #!/usr/bin/env python
